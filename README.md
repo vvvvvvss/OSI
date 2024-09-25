@@ -49,3 +49,4 @@ which is simply a series of 0s and 1s, while taking care of bit rate control.
 
 
 Other references: https://youtu.be/vv4y_uOneC0?si=hI5W-QstV6OAKLN4
+https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
