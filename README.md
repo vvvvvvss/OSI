@@ -1,8 +1,7 @@
 # OSI
-The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network.  
-![OSIModel drawio](https://github.com/user-attachments/assets/2dd60e59-5acb-42a8-9125-27c0256db311)
+The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network.    
+![OSIModel drawio (1)](https://github.com/user-attachments/assets/7808d1d1-292d-45f1-a3c6-c5857ed6d86e)
 
-![image](https://github.com/user-attachments/assets/734d1651-1382-4390-8523-9286d4b0d782)   
 Recieving data - bottom up approach   
 Transmitting data - top down approach
 
