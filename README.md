@@ -2,7 +2,7 @@
 The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network.
 ![image](https://github.com/user-attachments/assets/734d1651-1382-4390-8523-9286d4b0d782)
 
-## Application
+## Application Layer
 The application layer is used by end-user software such as web browsers and email clients.
 It provides protocols that allow software to send and receive information and present meaningful data to users. 
 A few examples of application layer protocols are the Hypertext Transfer Protocol (HTTP), File Transfer Protocol (FTP), 
