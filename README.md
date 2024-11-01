@@ -53,7 +53,12 @@ They connect devices in a network and use packet switching to send, receive or f
 A switch has many ports, to which computers are plugged in. 
 When a data frame arrives at any port of a network switch, it examines the destination address, performs necessary checks and sends the frame to the corresponding device(s). 
 It supports unicast, multicast as well as broadcast communications.
-Switching in IT and computer networking is the transfer of data packets, or blocks of data, through a network switch. Switches transfer data from source ports on devices such as computers to destination ports on devices such as routers.
+Switching in IT and computer networking is the transfer of data packets, or blocks of data, through a network switch. 
+Switches transfer data from source ports on devices such as computers to destination ports on devices such as routers.
+# IP addressing
+When a server sends a packet, it uses the destination IP address to determine whether to use Ethernet switching or IP routing. 
+If the destination IP address is on the same network as the server, the server uses the destination MAC address. 
+If the destination IP address is on a different network, the server uses the MAC address of the gateway router as the destination MAC address. 
 # ROUTER
 Routers are networking devices operating at layer 3 or a network layer of the OSI model. 
 They are responsible for receiving, analysing, and forwarding data packets among the connected computer networks. 
@@ -69,7 +74,7 @@ It primarily broadcasts messages. So, the collision domain of all nodes connecte
 
 
 # HANDSHAKES
-It is protocal used to start a connection between two more decices
+It is protocal used to start a connection between two more devices.
 ## Two-Way Handshake
 The two-way handshake is a simple protocol to create a connection between two parties that want to communicate. 
 In order to do that, this protocol uses synchronization (SYN) and acknowledgment (ACK) messages.
